@@ -24,7 +24,7 @@ We use this strategy to identify stars and galaxies in data collected by the SDS
 
 <figure>
 <img src="img/galaxy_star.jpg" align="center"/>
-<figcaption align = "center"><b> Star and galaxy data classes in the SDSS DR16 dataset. </b></figcaption>
+<figcaption align = "center"><b> Star and galaxy data classes make up the target labels in our version of the SDSS DR16 dataset. </b></figcaption>
 </figure>
 
 We plot the feature importance given by XGBoost, utilizing the weight metric for feature importance which quantifies the number of times a feature is used in a tree in the ensemble.
